@@ -1,0 +1,9 @@
+Revision history for Perl extension Algorithm::MurmurHash.
+
+0.10  Fri Dec 24 12:22:04 2008
+	- Initial Release of the Module
+
+0.01  Wed Dec 24 18:12:04 2008
+	- original version; created by h2xs 1.23 with options
+		-A -n Algorithm::MurmurHash
+
